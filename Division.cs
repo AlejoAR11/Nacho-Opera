@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace nacho_opera
 {
-    internal class Division
+    public class Division
     {
         /// <summary>
         /// Método division
