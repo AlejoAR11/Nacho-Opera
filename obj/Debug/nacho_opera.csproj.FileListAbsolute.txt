@@ -4,3 +4,9 @@ C:\Users\jpabl\OneDrive\Escritorio\programacion\pascualBravo\hdep2\nacho_opera\o
 C:\Users\jpabl\OneDrive\Escritorio\programacion\pascualBravo\hdep2\nacho_opera\obj\Debug\nacho_opera.csproj.CoreCompileInputs.cache
 C:\Users\jpabl\OneDrive\Escritorio\programacion\pascualBravo\hdep2\nacho_opera\obj\Debug\nacho_opera.dll
 C:\Users\jpabl\OneDrive\Escritorio\programacion\pascualBravo\hdep2\nacho_opera\obj\Debug\nacho_opera.pdb
+C:\Users\Capo\Source\Repos\Nacho-Opera\bin\Debug\nacho_opera.dll
+C:\Users\Capo\Source\Repos\Nacho-Opera\bin\Debug\nacho_opera.pdb
+C:\Users\Capo\Source\Repos\Nacho-Opera\obj\Debug\nacho_opera.csproj.AssemblyReference.cache
+C:\Users\Capo\Source\Repos\Nacho-Opera\obj\Debug\nacho_opera.csproj.CoreCompileInputs.cache
+C:\Users\Capo\Source\Repos\Nacho-Opera\obj\Debug\nacho_opera.dll
+C:\Users\Capo\Source\Repos\Nacho-Opera\obj\Debug\nacho_opera.pdb
