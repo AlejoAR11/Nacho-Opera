@@ -15,7 +15,7 @@ namespace nacho_opera
         /// <param name="num2">operando 2</param>
         /// <returns></returns>
 
-        public static double Divide(double num1, double num2)
+        public static double Resta(double num1, double num2)
         {
 
             return num1 - num2;
